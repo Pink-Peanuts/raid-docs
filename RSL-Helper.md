@@ -13,6 +13,8 @@
 
 This is arguably the one that will save the most time and effort. 
 
+⚠️You will not be able to do mixes of various levels. (I.e: You can't make RSL helper do 7 runs on 12-3 brutal and one on normal for example)
+
 ### Levelling for champ training
 ![image](https://github.com/Pink-Peanuts/raid-docs/assets/144652551/db5f7135-38e3-41a9-a394-bc0cdf525a70)
 
@@ -32,24 +34,30 @@ For champ training, you'll be wanting to maximize points, so you want to go with
 
 Once that's done, just select your champions until you have enough, and hit run at the bottom left. **Be sure to have the first 3 you'll be training selected in game. It doesn't quite work like the multi battle queue**
 
-### Events and dungeon runs
+### General food training
+Two options: 
+
+- Either you have a full queue of champs you want to bring to max level, in which case you do the above method, just set the level limit to the max level (20 for 2\*, 30 for 3, etc..)
+- Or you just want 3 of them levelled, in which case you prep the team, check the "Max level" option, and hit run.
+
+## Events and dungeon runs
 ![image](https://github.com/Pink-Peanuts/raid-docs/assets/144652551/bd9881d4-a64d-41c6-9517-27e1dfa3b94c)
 
 If you click on the event icon at the top left, near target event points, you can select a specific tournament/event, select the point threshold you want to reach, be in the battle window of the dungeon in question with your team selected, and hit run. It'll spend energy depending on your settings until it gets you there.
 
-### Various settings
+## Various settings
 
 ![image](https://github.com/Pink-Peanuts/raid-docs/assets/144652551/3dd800d9-d41f-443a-a1e0-5b64ef2a59e2)
 
 There are a few very interesting ones, that can help overnight mainly. 
 
-#### Start time
+### Start time
 Off to bed and an event starts in 4 hours so you don't want to waste energy before then? No problem. Set the timer to start in 4 hours, hit run, walk away, and sleep peacefully knowing it's running for you.
 
-#### Run effective resources
+### Run effective resources
 Probably my favorite setting, because I use it for everything. Just hit effective resources, and run whatever you please. **It will spend all energy regen, as soon as it has enough to run the content you're on, until you tell it to stop.**
 
-#### Auto refill & Max Refills
+### Auto refill & Max Refills
 Same concept as multi battles here, it will spend gems/energy refills you have banked to continue running until it hits an objective you defined above, like an event target, or until it hits the Max refill limit.
 
 
