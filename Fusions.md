@@ -107,6 +107,7 @@ If it's a traditional fusion, you're going to want readily available food & poti
 As much as possible, double dip events. Using the calendar above as an example, the first day of the fusion would be focused on :
 - Rolling up gear to complete enhancement
 - Using only the energy regen, and starting champion training with it.
+  
 Then, on day two, that would allow you to :
 - Burn through energy on fire Knight, also progressing Dungeon Divers
 - Summoning mystery shards for Summon Rush, and feeding the 1* to xp 2\* champs, progressing champ training
