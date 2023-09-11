@@ -91,3 +91,32 @@ Champ chase is a bit more complicated. You can expect between 2,500-3,650 points
 ![image](https://github.com/Pink-Peanuts/raid-docs/assets/144652551/0d463a7c-e27e-4d57-96cb-860662390a1e)
 
 ### Week before
+
+- Your food stores should be full, stop buying 2* champs from market
+- Stop spending silver (besides mystery shards from market if you're still low on shards)
+- Hoard all energy refills and gems if you're not very comfortable with what you have
+If it's a fragment event, that's about it, you're ready to tackle the fusion itself.
+
+If it's a traditional fusion, you're going to want readily available food & potions, so grind those up if you're not already done.
+- 16 4* ready to be fed
+- 24 superior potions of the affinity, and 12 Arcane
+- 80 greater of the affinity, and 60 Arcane
+
+### During the fusion
+![image](https://github.com/Pink-Peanuts/raid-docs/assets/144652551/0719fd62-bd0b-4b6d-b913-053eafae23c6)
+As much as possible, double dip events. Using the calendar above as an example, the first day of the fusion would be focused on :
+- Rolling up gear to complete enhancement
+- Using only the energy regen, and starting champion training with it.
+Then, on day two, that would allow you to :
+- Burn through energy on fire Knight, also progressing Dungeon Divers
+- Summoning mystery shards for Summon Rush, and feeding the 1* to xp 2\* champs, progressing champ training
+
+Coupling event progress to save on actual spending of your resources goes a very long way in fusions, as long as you can keep track of what you've pushed off to when, to make sure you don't miss an event by forgetting to finish it.
+
+Unless you know you can afford it resource wise, skip all non fusion events besides arena.
+
+- Finish all the events you need.
+- Congrats, you have a fusion
+![image](https://github.com/Pink-Peanuts/raid-docs/assets/144652551/57fcf512-4165-42ac-8e1c-1737d884627a)
+
+
