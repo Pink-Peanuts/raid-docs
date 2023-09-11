@@ -24,6 +24,7 @@ How much you prepare/organise at each phase, will determine how easily you can a
 
 ### Between fusions
 For the most part, this is where you do all the shit you've been putting off. Run Mino, Run potion keeps, Run Twins, Run whatever the hell you couldn't because it's not an event because god fucking forbid dungeon divers actually works for all dungeons eh? 
+Progress missions are also a very good thing to tackle in between fusions, as they are another source of shards.
 **But this is also the part where you will have the most freedom to prepare everything necessary for a fusion**
 
 #### The big don'ts 🚫
@@ -39,10 +40,12 @@ For the most part, this is where you do all the shit you've been putting off. Ru
 This is, for me, the basis of a fusion as an early-mid game account. A sizeable chunk of your silver will be going here. You will be buying three (3) things.
 - Mystery shards
 - 2* champions
-- Ancient shards (Those 5 first per month you get in the first 2 days and are then left sitting there like Pablo Escobar for the rest of the fucking month)![image](https://github.com/Pink-Peanuts/raid-docs/assets/144652551/0a6ab2f5-fa8f-4103-9634-78492a2b645f)
+- Ancient shards (Those 5 first per month you get in the first 2 days and are then left sitting there like Pablo Escobar for the rest of the fucking month)
+
+![image](https://github.com/Pink-Peanuts/raid-docs/assets/144652551/0a6ab2f5-fa8f-4103-9634-78492a2b645f)
 
 Now, "Peanuts!" you may say, "2* champs are expensive" you may say. And right you would be. But 2* champs are Summon Rush points, Champ chase points and Champ training points you're prepping ahead of time, with silver, by **not opening any mystery shards besides the daily 3**.
-So buy them. Buy them all. 
+So buy them. Buy them all until you've filled your vaults.
 
 Ancients are self-explanatory.
 
