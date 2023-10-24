@@ -105,6 +105,8 @@ If it's a traditional fusion, you're going to want readily available food & poti
 - 24 superior potions of the affinity, and 12 Arcane
 - 80 greater of the affinity, and 60 Arcane
 
+If it's a fragment fusion, you will not need potions or chickens
+
 ### During the fusion
 ![image](https://github.com/Pink-Peanuts/raid-docs/assets/144652551/0719fd62-bd0b-4b6d-b913-053eafae23c6)
 As much as possible, double dip events. Using the calendar above as an example, the first day of the fusion would be focused on :
