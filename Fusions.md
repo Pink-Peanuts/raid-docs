@@ -101,7 +101,7 @@ Champ chase is a bit more complicated. You can expect between 2,500-3,650 points
 If it's a fragment event, that's about it, you're ready to tackle the fusion itself.
 
 If it's a traditional fusion, you're going to want readily available food & potions, so grind those up if you're not already done.
-- 16 4* ready to be fed
+- 16 4* ready to be fed (either 4* lvl 1s, or 4* chickens work here)
 - 24 superior potions of the affinity, and 12 Arcane
 - 80 greater of the affinity, and 60 Arcane
 
